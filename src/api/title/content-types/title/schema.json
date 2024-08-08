@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "titles",
+  "info": {
+    "singularName": "title",
+    "pluralName": "titles",
+    "displayName": "title"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name_1": {
+      "type": "string"
+    }
+  }
+}
